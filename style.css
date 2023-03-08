@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.number2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white(247, 181, 238);
+    padding: 16px 30px;
+}
+.number2 ul{
+    display: flex;
+    list-style: none;
+
+}
+.number2 li{
+    padding-right: 20px;
+
+}
+
+
+
+.number2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 7px 10px;
+    border-radius: 4px;
+
+
+}
+.number2 a:hover{
+    background-color: aqua;
+    color: blue;
+}
+
+.button{
+    background-color:white;
+    color: rgb(15, 15, 15);
+    font-size: xx-small;
+    padding: 15px 20px;
+    margin-left: 80px ;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    
+    height: 20px;
+    border: 1px solid orange;
+}
+.number3{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.number3 .text{
+    font-size: 20px;
+}
+.text button{
+    margin-left: 10px;
+}
+
+.number4{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.number4 .text{
+    font-size: 20px;
+}
+.text button{
+    margin-left: 10px;
+}
+.number5{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+.number5 .text{
+    font-size: 20px;
+}
+.text button{
+    margin-left: 10px;
+}
